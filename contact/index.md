@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We’re always excited to hear from curious and motivated students who want to explore new ideas and contribute to our research. Whether you’re looking for a thesis project, an internship, or simply want to gain hands‑on experience, our lab offers opportunities to learn, collaborate, and grow.
+We’re always excited to hear from curious and motivated students who want to explore new ideas and contribute to our research. 
 
-If you’re passionate about science, eager to develop new skills, and ready to work in a supportive team environment, we’d love to hear from you. Email us directly — let’s start a conversation about how you can be part of our work.
+If you’re passionate about science, eager to develop new skills, and ready to work in a supportive team environment, we’d love to hear from you. If you’re interested in moss research, feel free to contact us.
 
 {%
   include button.html
